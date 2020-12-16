@@ -1,0 +1,10 @@
+view rsvplist:
+  title: 'View RSVP Form'
+  description: 'View and submit of RSVP Form'
+access rsvplist report:
+  title: 'Access list'
+  description: 'View the report listing all RSVP submitted'
+administer rsvplist:
+  title: 'Administer RSVP'
+  description: 'Access the RSVP Administrative'
+  restrict access: true

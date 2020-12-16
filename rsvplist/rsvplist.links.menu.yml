@@ -1,0 +1,13 @@
+rsvplist.admin_settings:
+  title: 'RSVP List Settings'
+  description: 'Control the Display of RSVP Form'
+  route_name: rsvplist.admin_settings
+  parent: system.admin_config_content
+  weight: 10
+
+rsvplist.report:
+  title: 'List of RSVP submissions'
+  description: 'View of RSVP list'
+  route_name: rsvplist.report
+  parent: system.admin_report
+  weight: 0
